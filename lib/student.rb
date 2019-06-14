@@ -8,9 +8,8 @@ class Student
   end
 
   def raise_hand
-    # "Hello \"world\"!"
-    # => "Hello \"world\"!"
-    "Pick me!\n"
+
+    puts "Pick me!\n"
   end
 
 end
